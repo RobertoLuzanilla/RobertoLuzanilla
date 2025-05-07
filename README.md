@@ -80,8 +80,6 @@
 > “No se trata solo de romper cosas. Se trata de entender cómo funcionan y proteger lo que importa.”  
 > — Un futuro Roberto certificado, probablemente
 
----
-
 <div align="center">
 <img src="https://raw.githubusercontent.com/RobertoLuzanilla/RobertoLuzanilla/main/Coffe.gif" alt="CoffeeBanner"/>
 </div>
