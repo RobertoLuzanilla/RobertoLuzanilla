@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/RobertoLuzanilla/RobertoLuzanilla/Monkey.gif" alt="WelcomeBanner"/>
+<img src="https://raw.githubusercontent.com/RobertoLuzanilla/RobertoLuzanilla/main/Monkey.gif" alt="WelcomeBanner"/>
 </div>
 
 <div align="center">
@@ -70,5 +70,5 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/XoanOuteiro/GIFS_forReadme/blob/main/banners/shoes.gif" alt="EndBanner"/>
+<img src="https://raw.githubusercontent.com/RobertoLuzanilla/RobertoLuzanilla/main/Coffe.gif" alt="CoffeeBanner"/>
 </div>
