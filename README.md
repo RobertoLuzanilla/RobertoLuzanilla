@@ -4,9 +4,9 @@
 
 <div align="center">
   <h1>¡Hola, soy Roberto! 🐍💻</h1>
-  <h4>Ethical Hacker en formación, nadador de alma, y amante del código limpio y los sistemas robustos.<br/>
-  Me especializo en seguridad ofensiva, scripting en Python y pentesting con un toque de locura ética.</h4>
-  <h4>📬 Contacto: roberto.security@proton.me</h4>
+  <h4>Ethical Hacker en formación, estudiante de sistemas y con gusto en los desafios de pentesting.<br/>
+  Me especializo en seguridad ofensiva, scripting en Python/bash orientado a pentesting.</h4>
+  <h4>📬 Contacto: luzanillasanchez@gmail.com</h4>
 </div>
 
 ---
@@ -17,7 +17,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square" title="Python" />
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat-square" title="Java" />
   <img src="https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white&style=flat-square" title="Bash" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=flat-square" title="GoLang" />
 </div>
 
 ---
@@ -28,7 +27,8 @@
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat-square" title="Arch Linux"/>
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kali-linux&logoColor=fff&style=flat-square" title="Kali Linux"/>
   <img src="https://img.shields.io/badge/Parrot_OS-00826c?logo=parrot-security&logoColor=white&style=flat-square" title="Parrot OS"/>
-  <img src="https://img.shields.io/badge/Hyprland-9eef86?logo=hyprland&logoColor=fff&style=flat-square" title="Hyprland"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=flat-square" title="Ubuntu"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat-square" title="Windows"/>
 </div>
 
 ---
@@ -54,11 +54,30 @@
 ### 🕵️ Plataformas de entrenamiento:
 
 <div align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/TU-USUARIO.svg" alt="TryHackMe Profile" height="40"/>
-  <img src="https://assets.tryhackme.com/img/badges/burpsuite.svg" title="THM BurpSuite Badge" height="70"/>
-  <img src="https://assets.tryhackme.com/img/badges/ohsint.svg" title="THM OSINT Badge" height="70"/>
-  <img src="https://assets.tryhackme.com/img/badges/linux.svg" title="THM Linux Badge" height="70"/>
+  <!-- TryHackMe -->
+  <a href="https://tryhackme.com/p/TU-USUARIO" target="_blank">
+    <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3591222" style='border:none;'></iframe>
+  </a>
+  <br/>
+  <br/><br/>
+
+  <!-- Hack The Box -->
+  <a href="https://app.hackthebox.com/profile/2200488" target="_blank">
+    <img src="https://img.shields.io/badge/Hack_The_Box-121212?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Hack The Box Badge"/>
+  </a>
+  <br/>
+  <img src="https://www.hackthebox.com/badge/image/2200488" alt="HTB Stats" height="70"/>
+  <br/><br/>
+
+  <!-- PortSwigger -->
+  <a href="https://portswigger.net/users/TU-USUARIO" target="_blank">
+    <img src="https://img.shields.io/badge/PortSwigger-FF6600?style=for-the-badge&logo=PortSwigger&logoColor=white" alt="PortSwigger Badge"/>
+  </a>
+  <br/>
+  <img src="https://www.portswigger.net/badges/TU-USUARIO" alt="PortSwigger Stats" height="70"/>
 </div>
+
+
 
 ---
 
