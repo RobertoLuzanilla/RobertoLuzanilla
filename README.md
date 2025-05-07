@@ -54,27 +54,21 @@
 ### 🕵️ Plataformas de entrenamiento:
 
 <div align="center">
-  <!-- TryHackMe -->
   <a href="https://tryhackme.com/p/TU-USUARIO" target="_blank">
-    <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3591222" style='border:none;'></iframe>
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Roberto01.png" alt="Your Image Badge" />
   </a>
-  <br/>
   <br/><br/>
 
-  <!-- Hack The Box -->
   <a href="https://app.hackthebox.com/profile/2200488" target="_blank">
     <img src="https://img.shields.io/badge/Hack_The_Box-121212?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Hack The Box Badge"/>
   </a>
   <br/>
   <img src="https://www.hackthebox.com/badge/image/2200488" alt="HTB Stats" height="70"/>
   <br/><br/>
-
-  <!-- PortSwigger -->
   <a href="https://portswigger.net/users/TU-USUARIO" target="_blank">
     <img src="https://img.shields.io/badge/PortSwigger-FF6600?style=for-the-badge&logo=PortSwigger&logoColor=white" alt="PortSwigger Badge"/>
   </a>
   <br/>
-  <img src="https://www.portswigger.net/badges/TU-USUARIO" alt="PortSwigger Stats" height="70"/>
 </div>
 
 
