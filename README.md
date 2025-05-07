@@ -75,8 +75,6 @@
 
 ---
 
-### 🧠 Mentalidad hacker:
-
 > “No se trata solo de romper cosas. Se trata de entender cómo funcionan y proteger lo que importa.”  
 > — Un futuro Roberto certificado, probablemente
 
