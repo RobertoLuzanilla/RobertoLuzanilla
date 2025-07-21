@@ -4,17 +4,19 @@
 
 <div align="center">
   <h1>¡Hola, soy Roberto! 🐍💻</h1>
-  <h4>Ethical Hacker en formación, estudiante de sistemas y con gusto en los desafios de pentesting.<br/>
+  <h4>Ethical Hacker en formación, estudiante de sistemas y con gusto en los desafíos de pentesting.<br/>
   Me especializo en seguridad ofensiva, scripting en Python/bash orientado a pentesting.</h4>
   <h4>📬 Contacto: luzanillasanchez@gmail.com</h4>
+
+  <!-- 🌐 PAGINA WEB -->
+  <h3>🌐 <a href="https://TU-PAGINA-WEB.com" target="_blank">Visita mi página web personal</a></h3>
 </div>
 
 ---
 
 ### 🧠 Tecnologías que uso o estoy dominando:
 
-<div align
-="center">
+<div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square" title="Python" />
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat-square" title="Java" />
   <img src="https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white&style=flat-square" title="Bash" />
@@ -72,12 +74,8 @@
   <br/>
 </div>
 
-
-
 ---
 
-> “No se trata solo de romper cosas. Se trata de entender cómo funcionan y proteger lo que importa.”
-> 
 <div align="center">
 <img src="https://raw.githubusercontent.com/RobertoLuzanilla/RobertoLuzanilla/main/Coffe.gif" alt="CoffeeBanner"/>
 </div>
