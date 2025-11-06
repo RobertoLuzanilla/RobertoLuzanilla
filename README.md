@@ -6,8 +6,7 @@
   <h1>¡Hola, soy Roberto! 🐍💻</h1>
   <h4>Ethical Hacker en formación, estudiante de sistemas y con gusto en los desafíos de pentesting.<br/>
   Me especializo en seguridad ofensiva, scripting en Python/bash orientado a pentesting.</h4>
-  <h4>📬 Contacto: luzanillasanchez@gmail.com</h4>
-
+  
   <!-- 🌐 PAGINA WEB -->
   <h3>🌐 <a href="https://robertoluzanilla.github.io/" target="_blank">Visita mi página web personal</a></h3>
 </div>
