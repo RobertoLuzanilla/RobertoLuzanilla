@@ -18,7 +18,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square" title="Python" />
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat-square" title="Java" />
-  <img src="https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white&style=flat-square" title="Bash" />
+  <img src="https://cyberwarfare.live/wp-content/uploads/2023/05/certified-red-team-analyst-course.png" title="Certified Red Team Analyst (CRTA)" height="150"/>
 </div>
 
 ---
