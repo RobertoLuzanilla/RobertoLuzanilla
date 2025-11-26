@@ -18,7 +18,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square" title="Python" />
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat-square" title="Java" />
-  <img src="https://cyberwarfare.live/wp-content/uploads/2023/05/certified-red-team-analyst-course.png" title="Certified Red Team Analyst (CRTA)" height="150"/>
 </div>
 
 ---
@@ -49,7 +48,7 @@
 <div align="center">
   <img src="https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" title="Google Cybersecurity Certificate" height="150"/>
   <img src="https://templates.images.credential.net/16921890479543330419421893546260.png" title="eJPTv2" height="150"/>
-  <img src="https://cyberwarfare.live/images/certs/CRTA.png" title="Certified Red Team Analyst (CRTA)" height="150"/>
+  <img src="https://cyberwarfare.live/wp-content/uploads/2023/05/certified-red-team-analyst-course.png" title="Certified Red Team Analyst (CRTA)" height="150"/>
 </div>
 
 ---
