@@ -49,6 +49,7 @@
 <div align="center">
   <img src="https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" title="Google Cybersecurity Certificate" height="150"/>
   <img src="https://templates.images.credential.net/16921890479543330419421893546260.png" title="eJPTv2" height="150"/>
+  <img src="https://cyberwarfare.live/images/certs/CRTA.png" title="Certified Red Team Analyst (CRTA)" height="150"/>
 </div>
 
 ---
